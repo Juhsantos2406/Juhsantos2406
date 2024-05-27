@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-<!--
-**Juhsantos2406/Juhsantos2406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Estamos estudando no Alura 
+Estamos desenvolvendo na linguagem javascright
+utilizamos o espaço para a organização e os compartilhamentos dos nossos projetos 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
