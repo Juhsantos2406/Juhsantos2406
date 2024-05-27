@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Estamos estudando no Alura,e
+Estamos estudando no Alura,
 Estamos desenvolvendo projetos na linguagem javascright
 utilizamos o espaço para a organização e os compartilhamentos dos nossos projetos 
 Here are some ideas to get you started:
