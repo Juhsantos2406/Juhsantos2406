@@ -1,4 +1,4 @@
-## Hi there 👋
+juhsantos
 
 Estamos estudando no Alura,
 Estamos desenvolvendo projetos na linguagem javascright
